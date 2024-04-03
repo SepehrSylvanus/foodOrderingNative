@@ -29,7 +29,7 @@ const styles = StyleSheet.create({
     padding: 10,
     borderRadius: 20,
     flex: 1,
-    
+maxWidth: '50%'
   },
 
   separator: {
